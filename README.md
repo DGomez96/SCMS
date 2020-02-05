@@ -1,4 +1,6 @@
 
 # Shopping Content Management System -> SCMS 
 Proyecto de CMS y CRM , un proyecto sobre una Tienda, a priori creada para el cliente *FiberMovil*.
->Author -> _Daniel Gómez Gil_
+>Author -> _Daniel Gómez Gil {DaGoGi}_
+
+###### Indice
