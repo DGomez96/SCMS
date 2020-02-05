@@ -13,8 +13,13 @@ Proyecto de CMS y CRM , un proyecto sobre una Tienda.
 ###### Clientes
 1. Arreglar Añadido de Archivos y Registros en Document
 
-  - Array to Request para usar ->storage
-  - Asignación Automática a Nacho de Comercial
-  
+    * Array to Request para usar ->storage
+    * Asignación Automática a Nacho de Comercial 
+    
 ###### Producto
-
+1. Cambiar plantilla Editar
+    * Adaptar plantilla Editar a la Anterior
+    * Hacer Funcionalidad en Javascript para hacer Peticiones Ajax, en Eliminar la Imagen
+    * Actualiza la Plantilla con el Javascript para un form que pueda añadir Imagenes a la Hora de editar
+2. Mostrar Productos
+3. Añadir funcionalidad a los botones de list
